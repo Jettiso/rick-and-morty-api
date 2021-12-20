@@ -1,7 +1,7 @@
 const charContainer = document.querySelector(".chars-container");
 const search = document.getElementById("searchBar");
 
-const idTag = 200;
+const idTag = 100;
 
 let arr = [];
 
